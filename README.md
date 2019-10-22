@@ -11,3 +11,4 @@ This application does the following:
 3. The app updates the longitude of the virtual camera correspondingly
 4. The image on the screen updates to what the saucer sees when orbiting the Earth
 
+[![Flight](https://img.youtube.com/vi/txLAULnUy7o/0.jpg)](https://www.youtube.com/watch?v=txLAULnUy7o)
